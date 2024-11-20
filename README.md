@@ -1,11 +1,10 @@
-This repo holds the codes of our paper:
+## 📖 Hierarchical Attention and Parallel Filter Fusion Network for Multi-Source Data Classification (IEEE GRSL 2024)
 
-Hierarchical Attention and Parallel Filter Fusion Network for Multi-Source Data Classification
+[![ARXIV](https://img.shields.io/badge/Paper-ARIXV-blue)]()
+[![IEEE](https://img.shields.io/badge/Paper-IEEE%20GRSL-blue)]()
 
-submitted to IEEE Geoscience and Remote Sensing Letters.
+This code is for our paper "Hierarchical Attention and Parallel Filter Fusion Network for Multi-Source Data Classification (IEEE GRSL 2024)".
 
-The codes and data will be released soon.
+🔥 We hope HAPNet is helpful for your work. Thanks a lot for your attention.🔥
 
-If you have any queries, please do not hesitate to contact me ( gaofeng@ouc.edu.cn ).
-
-More codes and data can be obtained from http://feng-gao.cn
+If you have any questions, please contact us. Email: gaofeng@ouc.edu.cn
